@@ -1,3 +1,9 @@
 [submodule "tune-tix"]
 	path = tune-tix
 	url = https://github.com/sreecharan-desu/movie-mukkalu.git
+[submodule "todo-app"]
+	path = todo-app
+	url = https://github.com/sreecharan-desu/todo-app.git
+[submodule "kabuka"]
+	path = kabuka
+	url = https://github.com/sreecharan-desu/kabuka.git
