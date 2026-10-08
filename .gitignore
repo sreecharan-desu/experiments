@@ -1,0 +1,16 @@
+.DS_Store
+node_modules/
+dist/
+*.local
+.env
+.env.*
+!.env.example
+*.pid
+*.log
+*.pcap
+
+# Kept local, not part of this log
+dns-lab/
+studentList/
+vite-project/
+public/
