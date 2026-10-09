@@ -7,3 +7,6 @@
 [submodule "kabuka"]
 	path = kabuka
 	url = https://github.com/sreecharan-desu/kabuka.git
+[submodule "hrms-backend"]
+	path = hrms-backend
+	url = https://github.com/sreecharan-desu/hrms-backend.git
